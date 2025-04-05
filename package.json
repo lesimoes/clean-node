@@ -1,0 +1,14 @@
+{
+  "name": "clean-node",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "clean-node": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node ./src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
