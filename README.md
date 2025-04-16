@@ -10,7 +10,7 @@ Clone the repository and link it locally:
 
 ```bash
 npm install
-npm link
+sudo npm link
 ```
 
 This will make the clean-node command available globally in your terminal.
